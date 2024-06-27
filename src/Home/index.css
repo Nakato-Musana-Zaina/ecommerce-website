@@ -1,0 +1,39 @@
+.home_right{
+    /* margin-right: 70%; */
+    margin-top: 8%; 
+    text-align: left;
+}
+.background{
+    margin-top: -40%;
+    margin-left: 10%;
+    margin-bottom: 6%;
+    
+}
+.background img{
+    width: 190%;
+   
+}
+.homeLeft{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.hometextbbold{
+    font-weight: bold;
+    font-size: xx-large;
+}
+.circle{
+    width: 20%;
+    margin-top: -170%;
+    margin-left: 20%;
+    padding: 60%;
+    margin-bottom: 6%;
+    background-color: rgb(236, 182, 80);
+    border-radius: 50%;
+    
+}
+.home{
+    display: flex;
+    gap: 10%;
+    margin-left: 30%;
+    margin-bottom: 3%;
+}
