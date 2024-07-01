@@ -1,7 +1,7 @@
 // const baseUrl = process.env.REACT_APP_BASE_URL;
  export const getProducts= async()=>{
     try{
-        const response = await fetch('https://fakestoreapi.com/products?limit=16')
+        const response = await fetch('https://fakestoreapi.com/products?limit=15')
         return response.json()
 
     }

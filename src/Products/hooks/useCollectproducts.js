@@ -30,5 +30,4 @@ useEffect(()=> {
 return{products,error,loading}
 
 };
-
 export default useCollectproducts;

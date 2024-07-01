@@ -1,0 +1,7 @@
+.footer{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.footer b{
+    font-size: xx-large;
+}
